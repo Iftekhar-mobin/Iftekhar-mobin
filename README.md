@@ -1,17 +1,6 @@
 ## 👋 Hi, I’m Dr. Md Iftekharul Mobin
 
-Welcome to my GitHub! I am an enthusiastic of **Natural Language Processing (NLP)**, **Machine Learning (ML)**, and **Data Analytics**. My work spans diverse areas including **time-series analysis**, **health informatics**, **IoT**, and **information retrieval systems**. I’m driven by a passion for advancing knowledge and fostering collaboration between academia and industry.
-
----
-
-## 🧑‍🔬 About Me
-
-- **Current Role**: Assistant Professor in the CSE Department at American International University-Bangladesh (AIUB).
-- **Education**: Ph.D. in Electrical Engineering & Computer Science from Queen Mary University of London, with a B.Sc. from the Islamic University of Technology (IUT).
-- **Professional Background**: Experience as a System Engineer & Analyst in Tokyo, former Assistant Professor at BRAC and ULAB University, and research experience across the UK, Japan, and Bangladesh.
-- **Research Interests**: NLP, time-series prediction, health informatics, IoT, image processing, information retrieval systems, and AI applications for social impact.
-
----
+Welcome to my GitHub! I am an enthusiastic of **Natural Language Processing (NLP)**, **Machine Learning (ML)**, and **Data Analytics**. My work spans diverse areas including **time-series analysis**, **health informatics**, **IoT**, and **information retrieval systems**. I’m driven by a passion for advancing knowledge and fostering collaboration between academia and industry. NLP, time-series prediction, health informatics, IoT, image processing, information retrieval systems, and AI applications for social impact.
 
 ## 🛠️ Core Competencies
 
